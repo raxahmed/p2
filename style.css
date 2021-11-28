@@ -1,0 +1,35 @@
+.half-width{
+    width: 38%;
+    float: left;
+    padding: 2%;
+    margin: 5%;
+}
+section{
+    height: 550px;
+}
+body{
+    padding: 3%;
+    margin-left: 100px;
+}
+.half-width img{
+width: 100%;
+}
+
+.top{
+    background-image: url("images/part1-bg.png");
+  background-repeat: no-repeat;
+}
+.bottom{
+    background-image: url("images/part2-bg.png");
+  background-repeat: no-repeat;
+}
+span{
+    color: orange;
+}
+button{
+   text-decoration: none;
+   font-weight: 700;
+    color: white;
+    border-radius: 3px;
+    background-image: linear-gradient(orange,tomato);
+}
